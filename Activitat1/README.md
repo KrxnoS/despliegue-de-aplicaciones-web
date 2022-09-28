@@ -37,3 +37,5 @@ indica que el recurso solicitado ha sido movido temporalmente a la URL dada por 
 6. Utilizando el filtro de captura para la interfaz de red de Wireshark, analiza la petición
 al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu ordenador y
 la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Google.
+
+ip google : 216.58.215.141	TCP	54	56364 → 443 [FIN, ACK] Seq=2 Ack=74 Win=512 Len=0
